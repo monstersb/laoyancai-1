@@ -1,0 +1,12 @@
+laoyancai
+
+laoyancai(捞腌菜)是一款技巧性低，娱乐性极高的扑克玩法，于2014年5月(?)由悲剧哥从云南传入417。
+
+
+运行:
+    cd laoyancai
+    npm install ./
+    node app.js
+
+
+p.s. 预祝悲剧哥半月之后考研顺利，不悲剧
